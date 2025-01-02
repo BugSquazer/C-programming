@@ -8,7 +8,7 @@
     rem = n % 10;
     rvrs = rvrs * 10+rem;
     n /= 10; 
-   }
+   } 
    if (temp == rvrs)
    {
     printf ("%d is a palindrome number", temp);  
