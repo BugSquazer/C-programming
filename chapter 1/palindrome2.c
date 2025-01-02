@@ -3,7 +3,6 @@
     int a,b=0,c=0,d;
     printf("enter the value");
     scanf("%d" ,&a);
-
     while(a !=0)
     {
         b = a%10;
